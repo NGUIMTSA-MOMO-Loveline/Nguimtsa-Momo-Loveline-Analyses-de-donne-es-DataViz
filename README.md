@@ -1,4 +1,4 @@
-# Analyse de l'espérance de vie mondiale (1950-2023)
+# Analyse de l'espérance de vie mondiale (1920-2025)
 
 ## Source des données
 
