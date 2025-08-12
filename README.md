@@ -2,7 +2,7 @@
 
 ## Source des données
 
-[Our World in Data - Life Expectancy](https://ourworldindata.org/life-expectancy), fichier CSV `life-expentancy-unwpp.csv`.
+[Our World in Data - Life Expectancy](https://ourworldindata.org/grapher/life-expectancy-unwpp), fichier CSV `life-expentancy-unwpp.csv`.
 Le `life-expentancy-unwpp.csv` que j'ai modifier en `life-expentancy.csv`. Les données sont de 1950 à 2023.
 
 ## Ma question posée 
@@ -11,7 +11,7 @@ Comment l'espérance de vie a-t-elle évolué dans le monde entre 1950 et 2023 ?
 
 ## Méthode d'analyse
 
-_ Nettoyage des données : sélection des colonnes utiles, filtrage des années, suppression des valeurs manquantes.
+_Nettoyage des données : sélection des colonnes utiles, filtrage des années, suppression des valeurs manquantes.
 _Visualiser l’évolution de l’espérance de vie mondiale.
 _Visualiser les différences continental.
 _Visualisations avec Seaborn et Matplotlib.
