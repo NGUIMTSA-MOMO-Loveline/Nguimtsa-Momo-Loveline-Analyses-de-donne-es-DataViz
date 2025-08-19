@@ -24,3 +24,6 @@ _ Google Colab (notebook Jupyter).
 ## Résultats et conclusion
 
 L'espérance de vie a augmanter, passant de 48 ans en 1950 à plus de 73 ans en 2023. L’analyse révèle que l’espérance de vie en Europe est significativement plus élevée comparée à celle des autres continent du monde. Cela reflète probablement des différences dans les systèmes de santé, les conditions socio-économiques, et les modes de vie.
+
+## Lien GitHub
+https://github.com/NGUIMTSA-MOMO-Loveline/Nguimtsa-Momo-Loveline-Analyses-de-donne-es-DataViz.git
